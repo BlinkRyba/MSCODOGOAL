@@ -134,5 +134,5 @@ Crash behavior
 Repository Contents:
 ------------------------------------------------------------------------------------------------
 
-/bridges
+bridges
 Source code for Streamlabs and TikTok bridges.
