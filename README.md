@@ -1,3 +1,7 @@
+[Click Here To Download MSCODOGOAL (Official Releases)](https://github.com/BlinkRyba/MSCODOGOAL/releases)
+----------------------------------------------------------------------------------------------
+***
+
 MSC Odo Goal (Bridges Edition)
 ------------------------------------------------------------------------------------------------
 
