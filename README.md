@@ -17,7 +17,7 @@ Precompiled builds are available under the Releases section.
 Available Releases:
 ------------------------------------------------------------------------------------------------
 
-#There are currently three separate releases. Make sure you download the one you intend to use:#
+*There are currently three separate releases. Make sure you download the one you intend to use:*
 
 MSCODOGOAL Release 1.1 (Base Mod):
 ------------------------------------------------------------------------------------------------
