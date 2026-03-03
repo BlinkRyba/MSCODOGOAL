@@ -1,0 +1,17 @@
+{
+  "local_ws_port": 8765,
+  "streamlabs_enabled": true,
+  "streamlabs_socket_token": "",
+  "enable_tips": true,
+  "enable_bits": true,
+  "enable_subscriptions": true,
+  "subscription_value_usd": 5.0,
+  "bits_per_usd": 100.0,
+  "bridge_debug_mode": false,
+  "verbose_streamlabs_logging": false,
+  "open_config_on_first_run": true,
+  "enable_status_heartbeat": false,
+  "status_heartbeat_seconds": 5,
+  "log_broadcast_events": true,
+  "log_broadcast_status": false
+}

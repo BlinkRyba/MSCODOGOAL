@@ -1,0 +1,14 @@
+{
+  "local_ws_port": 8766,
+  "tiktok_enabled": true,
+  "tiktok_username": "",
+  "enable_gifts": true,
+  "usd_per_diamond": 0.005,
+  "min_usd_to_forward": 0.0,
+  "verbose_tiktok_logging": false,
+  "open_config_on_first_run": true,
+  "enable_status_heartbeat": false,
+  "status_heartbeat_seconds": 5,
+  "log_broadcast_events": true,
+  "log_broadcast_status": false
+}
