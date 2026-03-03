@@ -5,11 +5,11 @@ MSC Odo Goal is a My Summer Car mod that adds a Satsuma odometer HUD with a conf
 
 This repository contains the source code for:
 
-*The base mod
+-The base mod
 
-*The Streamlabs (Twitch) bridge
+-The Streamlabs (Twitch) bridge
 
-*The TikTok bridge (Alpha)
+-The TikTok bridge (Alpha)
 
 Precompiled builds are available under the Releases section.
 
@@ -24,17 +24,17 @@ MSCODOGOAL Release 1.1 (Base Mod):
 The core HUD mod.
 Includes:
 
-*Odometer
+-Odometer
 
-*Goal tracking
+-Goal tracking
 
-*Distance left
+-Distance left
 
-*Progress bar
+-Progress bar
 
-*Timer
+-Timer
 
-*Bridge connection support
+-Bridge connection support
 
 This is required for any bridge integration.
 
