@@ -1,7 +1,7 @@
 [Click Here To Download MSCODOGOAL (Official Releases)](https://github.com/BlinkRyba/MSCODOGOAL/releases)
 ----------------------------------------------------------------------------------------------
 
-[Click Here To Visit The Official WIKI](https://github.com/BlinkRyba/MSCODOGOAL/wiki)
+[Click Here To Visit The Official WIKI](https://github.com/BlinkRyba/MSCODOGOAL/wiki) (outdated right now, will update soon)
 -----------------------------------------------------------------------------------------------
 
 ***
